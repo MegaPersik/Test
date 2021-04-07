@@ -1,0 +1,10 @@
+C:\Users\Persik\source\repos\SiteCopy\bin\Debug\SiteCopy.exe.config
+C:\Users\Persik\source\repos\SiteCopy\bin\Debug\SiteCopy.exe
+C:\Users\Persik\source\repos\SiteCopy\bin\Debug\SiteCopy.pdb
+C:\Users\Persik\source\repos\SiteCopy\obj\Debug\SiteCopy.csprojAssemblyReference.cache
+C:\Users\Persik\source\repos\SiteCopy\obj\Debug\SiteCopy.Form1.resources
+C:\Users\Persik\source\repos\SiteCopy\obj\Debug\SiteCopy.Properties.Resources.resources
+C:\Users\Persik\source\repos\SiteCopy\obj\Debug\SiteCopy.csproj.GenerateResource.cache
+C:\Users\Persik\source\repos\SiteCopy\obj\Debug\SiteCopy.csproj.CoreCompileInputs.cache
+C:\Users\Persik\source\repos\SiteCopy\obj\Debug\SiteCopy.exe
+C:\Users\Persik\source\repos\SiteCopy\obj\Debug\SiteCopy.pdb
